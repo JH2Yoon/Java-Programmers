@@ -81,7 +81,7 @@
 |76|JadenCase 문자열 만들기|toUpperCase(), toLowerCase()|
 |77|이진 변환 반복하기|toBinaryString|
 |78|피보나치 수|while|
-|79|테스트2|테스트3|
+|79|카펫|완전탐색|
 |80|테스트2|테스트3|
 |81|테스트2|테스트3|
 
