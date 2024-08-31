@@ -3,28 +3,72 @@
 import java.util.*;
 
 class Solution {
-    
-    // 생성된 모든 단어 저장
-    static List<String> list = new ArrayList<>();
-    
-    public int solution(String word) {
+    static Map<String, Integer> parkingInTime;
+    static Map<String, Integer> parkingTotalTime;
+
+    public int[] solution(int[] fees, String[] records) {
+        parkingInTime = new HashMap<>();
+        parkingTotalTime = new HashMap<>();
         
-        dfs("");
+        for (String record : records) {
+            String[] infoArr = record.split(" ");
+            String[] curTime = infoArr[0].split(":");
+            String number = infoArr[1];
+            boolean isEnter = infoArr[2].equals("IN");
+            int curMinutes = Integer.parseInt(curTime[0]) * 60 + Integer.parseInt(curTime[1]);
+            
+            if (isEnter) {
+                carIn(number, curMinutes);
+            } else {
+                carOut(number, curMinutes);
+            }
+        }
         
-        // 해당 단어의 인덱스를 반환
-        return list.indexOf(word);
+        
+        for (String number : new HashSet<>(parkingInTime.keySet())) {
+            carOut(number, 1439);
+        }
+
+
+        List<String> vehicleList = new ArrayList<>(parkingTotalTime.keySet());
+        Collections.sort(vehicleList);
+        int[] result = new int[vehicleList.size()];
+        
+        
+        for (int i = 0; i < vehicleList.size(); i++) {
+            String number = vehicleList.get(i);
+            result[i] = calculateFare(fees, parkingTotalTime.get(number));
+        }
+        
+        return result;
     }
-    
-    public static void dfs(String s) {
-        // 단어 길이가 5 이상 이면 dfs 종료
-        if (s.length() > 5) return;
-        
-        // 생성된 단어 저장
-        list.add(s);
-        
-        // 각 모음 'A', 'E', 'I', 'O', 'U'를 붙여 새로운 단어를 생성하고 재귀 호출
-        for (int i=0; i<5; i++) {
-            dfs(s + "AEIOU".charAt(i));
+
+    public static int calculateFare(int[] fees, int time) {
+        int baseTime = fees[0];
+        int baseFare = fees[1];
+        int unitTime = fees[2];
+        int unitFare = fees[3];
+
+        if (time <= baseTime) {
+            return baseFare;
+        }
+
+        int extraTime = time - baseTime;
+        int additionalFare = (int) Math.ceil((double) extraTime / unitTime) * unitFare;
+
+        return baseFare + additionalFare;
+    }
+
+    public static void carIn(String number, int curMinutes) {
+        parkingInTime.put(number, curMinutes);
+    }
+
+    public static void carOut(String number, int curMinutes) {
+        if (parkingInTime.containsKey(number)) {
+            int inTime = parkingInTime.get(number);
+            parkingInTime.remove(number);
+
+            parkingTotalTime.put(number, parkingTotalTime.getOrDefault(number, 0) + curMinutes - inTime);
         }
     }
 }
