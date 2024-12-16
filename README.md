@@ -130,5 +130,6 @@
 | 125 | 혼자 놀기의 달인        | List                         |
 | 126 | 광물 캐기| dfs                          |
 | 127 | 리코쳇 로봇| bfs                          |
-| 128 | 디펜스 게임| PriorityQueue                          |
-| 129 | 우박수열 정적분| List                          |
+| 128 | 디펜스 게임| PriorityQueue                |
+| 129 | 우박수열 정적분| List                         |
+| 130 | 두 원 사이의 정수 쌍| Math.sqrt, Math.pow                  |
