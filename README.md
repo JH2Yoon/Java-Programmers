@@ -133,3 +133,4 @@
 | 128 | 디펜스 게임| PriorityQueue                |
 | 129 | 우박수열 정적분| List                         |
 | 130 | 두 원 사이의 정수 쌍| Math.sqrt, Math.pow                  |
+| 131 | N-Queen| Math.abs                 |
