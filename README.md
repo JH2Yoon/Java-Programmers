@@ -148,3 +148,4 @@
 | 143 | 이중우선순위큐| PriorityQueue                         |
 | 144 | 네트워크| dfs                         |
 | 145 | 단어 변환| bfs                         |
+| 146 | 베스트앨범| HashMap, List                         |
