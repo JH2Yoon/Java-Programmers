@@ -171,3 +171,4 @@
 | 166 | Java Priority Queue| PriorityQueue                         |
 | 167 | Can You Access?| BufferedReader                         |
 | 168 | Java Currency Formatter| Locale, NumberFormat                         |
+| 169 | Java Stack| Stack                         |
