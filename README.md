@@ -173,3 +173,4 @@
 | 168 | Java Currency Formatter| Locale, NumberFormat                         |
 | 169 | Java Stack| Stack                         |
 | 170 | Java If-Else| IF, ELSE                         |
+| 171 | Java Loops I| BufferedReader, for                         |
