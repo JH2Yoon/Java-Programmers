@@ -176,3 +176,4 @@
 | 171 | Java Loops I| BufferedReader, for                         |
 | 172 | Java Loops II| Math.pow, for                         |
 | 173 | Java String Reverse| StringBuilder                         |
+| 174 | Java Substring| StringBuilder                         |
