@@ -182,3 +182,4 @@
 | 177 | Java SHA-256| MessageDigest, StringBuilder                         |
 | 178 | Java Substring Comparisons| for                         |
 | 179 | Java BigInteger| BigInteger                         |
+| 180 | Java Stdin and Stdout II| Scanner                         |
