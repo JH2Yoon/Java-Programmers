@@ -183,3 +183,4 @@
 | 178 | Java Substring Comparisons| for                         |
 | 179 | Java BigInteger| BigInteger                         |
 | 180 | Java Stdin and Stdout II| Scanner                         |
+| 181 | Java Anagrams| toLowerCase                         |
