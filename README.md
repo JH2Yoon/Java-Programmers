@@ -193,3 +193,5 @@
 | 188 | Prime Checker| BufferedReader, for                         |
 | 189 | Pattern Syntax Checker| Pattern, while                         |
 | 190 | Java Primality Test| BufferedReader, BigInteger, isProbablePrime                         |
+| 191 | Java List| List, for                         |
+| 192 | Java Map| Map, for, while                         |
