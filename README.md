@@ -197,3 +197,4 @@
 | 192 | Java Map| Map, for, while                         |
 | 193 | Java Hashset| HashSet, for                         |
 | 194 | Java Subarray| for                         |
+| 195 | Java Generics| Generic methods                         |
