@@ -207,3 +207,4 @@
 | 202 | Java Singleton Pattern| Singleton                         |
 | 203 | Java Exception Handling (Try-catch)| try-catch                        |
 | 204 | Java Method Overriding 2 (Super Keyword)| Overriding, extends, super                        |
+| 205 | Java Static Initializer Block| static                        |
