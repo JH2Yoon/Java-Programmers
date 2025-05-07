@@ -220,3 +220,4 @@
 | 214 | Java Varargs - Simple Addition           | StringBuilder, for                          |
 | 215 | Tag Content Extractor                    | Matcher, Pattern, while                     |
 | 216 | Java Comparator                          | implements, for                             |
+| 217 | Java Strings Introduction                | substring, toUpperCase                      |
