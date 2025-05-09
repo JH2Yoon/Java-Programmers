@@ -62,8 +62,8 @@
 | 56  | 과일 장수                                    | 테스트3                                        |
 | 57  | 모의고사완전탐색                                 | 테스트3                                        |
 | 58  | 소수 만들기                                   | 소수                                          |
-| 59  | 덧칠하기                                     | 테스트3                                        
-| 60  | 기사단원의 무기                                 | 테스트3                                        ||
+| 59  | 덧칠하기                                     | 테스트3                                        |
+| 60  | 기사단원의 무기                                 | 테스트3                                        |
 | 61  | 로또의 최고 순위와 최저 순위                         | Map                                         |
 | 62  | 옹알이 (2)                                  | 테스트3                                        |
 | 63  | 숫자 짝꿍                                    | 테스트3                                        |
@@ -222,3 +222,4 @@
 | 216 | Java Comparator                          | implements, for                             |
 | 217 | Java Strings Introduction                | substring, toUpperCase                      |
 | 218 | Java Reflection - Attributes             | Method, for                                 |
+| 219 | Java 1D Array (Part 2)                   | while, for                                  |
