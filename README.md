@@ -224,5 +224,6 @@
 | 218 | Java Reflection - Attributes             | Method, for                                 |
 | 219 | Java 1D Array (Part 2)                   | while, for                                  |
 | 220 | Java Dequeue                             | Deque, Map, for                             |
-| 221 | 지폐 접기                                    | while, Arrays                           |
-| 222 | 외톨이 알파벳                                    | while, Arrays                           |
+| 221 | 지폐 접기                                    | while, Arrays                               |
+| 222 | 외톨이 알파벳                                  | HashMap, for                                |
+| 223 | 유연근무제                                    | for                                         |
