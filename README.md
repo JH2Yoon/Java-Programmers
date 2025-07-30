@@ -238,3 +238,4 @@
 | 232 | [3차] 압축                                  | while, List, Map                            |
 | 233 | [1차] 뉴스 클러스터링                            | for, List                                   |
 | 234 | [3차] n진수 게임                            | while, for, StringBuilder                   |
+| 235 | 게임 맵 최단거리                            | while, for, Queue                   |
