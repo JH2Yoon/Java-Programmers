@@ -243,3 +243,4 @@
 | 237 | 오픈채팅방                                    | List, for, Map                              |
 | 238 | 문자열 압축                                   | StringBuilder, for                          |
 | 239 | 영어 끝말잇기                                  | List, for                                   |
+| 240 | 괄호 변환                                  | StringBuilder, for, do-while                |
