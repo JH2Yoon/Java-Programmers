@@ -245,3 +245,4 @@
 | 239 | 영어 끝말잇기                                  | List, for                                   |
 | 240 | 괄호 변환                                    | StringBuilder, for, do-while                |
 | 241 | [1차] 프렌즈4블록                              | for, while                                  |
+| 242 | 줄 서는 방법                                  | for, while                                  |
