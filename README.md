@@ -246,5 +246,6 @@
 | 240 | 괄호 변환                                    | StringBuilder, for, do-while                |
 | 241 | [1차] 프렌즈4블록                              | for, while                                  |
 | 242 | 줄 서는 방법                                  | for, while                                  |
-| 243 | 정수 삼각형                                  | for                                         |
-| 244 | 메뉴 리뉴얼                                  | List, Map, for                              |
+| 243 | 정수 삼각형                                   | for                                         |
+| 244 | 메뉴 리뉴얼                                   | List, Map, for                              |
+| 245 | 등굣길                                      | for                              |
