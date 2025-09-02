@@ -248,5 +248,6 @@
 | 242 | 줄 서는 방법                                  | for, while                                  |
 | 243 | 정수 삼각형                                   | for                                         |
 | 244 | 메뉴 리뉴얼                                   | List, Map, for                              |
-| 245 | 등굣길                                      | for                              |
-| 246 | 단속카메라                                    | for                              |
+| 245 | 등굣길                                      | for                                         |
+| 246 | 단속카메라                                    | for                                         |
+| 247 | 야근 지수                                    | PriorityQueue, for, while                   |
