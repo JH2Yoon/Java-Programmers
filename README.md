@@ -252,3 +252,4 @@
 | 246 | 단속카메라                                    | for                                         |
 | 247 | 야근 지수                                    | PriorityQueue, for, while                   |
 | 248 | 최고의 집합                                   | for                   |
+| 249 | 최적의 행렬 곱셈                                   | for                   |
