@@ -256,3 +256,5 @@
 | 250 | 거스름돈                                     | for                                         |
 | 251 | 도둑질                                      | for                                         |
 | 252 | 보석 쇼핑                                    | Map, Set, while                             |
+| 252 | 보석 쇼핑                                    | Map, Set, while                             |
+| 253 | [PCCP 기출문제] 2번 / 퍼즐 게임 챌린지               | for, while                                  |
