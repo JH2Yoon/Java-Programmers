@@ -258,3 +258,4 @@
 | 252 | 보석 쇼핑                                    | Map, Set, while                             |
 | 252 | 보석 쇼핑                                    | Map, Set, while                             |
 | 253 | [PCCP 기출문제] 2번 / 퍼즐 게임 챌린지               | for, while                                  |
+| 254 | [PCCP 기출문제] 2번 / 석유 시추                   | List, for, dfs                              |
