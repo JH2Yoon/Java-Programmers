@@ -262,3 +262,4 @@
 | 255 | 합승 택시 요금                                 | for                                         |
 | 256 | 카카오프렌즈 컬러링북                              | Queue, for, while                           |
 | 257 | 숫자 블록                                    | for                                         |
+| 258 | 아이템 줍기                                   | Queue, for, while, bfs                      |
