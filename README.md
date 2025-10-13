@@ -263,4 +263,5 @@
 | 256 | 카카오프렌즈 컬러링북                              | Queue, for, while                           |
 | 257 | 숫자 블록                                    | for                                         |
 | 258 | 아이템 줍기                                   | Queue, for, while, bfs                      |
-| 259 | 파괴되지 않은 건물                                   | Queue, for, while, bfs                      |
+| 259 | 파괴되지 않은 건물                               | Queue, for, while, bfs                      |
+| 260 | 순위 검색                                    | Map, List, for, while                       |
