@@ -266,3 +266,4 @@
 | 259 | 파괴되지 않은 건물                               | Queue, for, while, bfs                      |
 | 260 | 순위 검색                                    | Map, List, for, while                       |
 | 261 | 수식 최대화                                   | List, for                                   |
+| 262 | 표 편집                                     | StringBuilder, Deque, for                   |
