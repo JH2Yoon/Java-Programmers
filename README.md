@@ -267,3 +267,4 @@
 | 260 | 순위 검색                                    | Map, List, for, while                       |
 | 261 | 수식 최대화                                   | List, for                                   |
 | 262 | 표 편집                                     | StringBuilder, Deque, for                   |
+| 263 | 불량 사용자                                   | Set, for, dfs                               |
