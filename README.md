@@ -268,4 +268,5 @@
 | 261 | 수식 최대화                                   | List, for                                   |
 | 262 | 표 편집                                     | StringBuilder, Deque, for                   |
 | 263 | 불량 사용자                                   | Set, for, dfs                               |
-| 264 | 길 찾기 게임                                   | List                                        |
+| 264 | 길 찾기 게임                                  | List                                        |
+| 265 | 징검다리                                     | for, while                                  |
