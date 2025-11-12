@@ -275,3 +275,4 @@
 | 268 | 경주로 건설                                   | Queue, for, while                         |
 | 269 | 징검다리 건너기                                 | for, while                                |
 | 270 | 후보키                                      | List, Set, for                       |
+| 271 | 셔틀버스                                     | for                       |
