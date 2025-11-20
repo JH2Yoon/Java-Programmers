@@ -276,5 +276,6 @@
 | 269 | 징검다리 건너기                                 | for, while                                  |
 | 270 | 후보키                                      | List, Set, for                              |
 | 271 | 셔틀버스                                     | for                                         |
-| 272 | 숫자 게임                                     | while                                       |
-| 273 | [3차] 방금그곡                                     | StringBuilder, for                                       |
+| 272 | 숫자 게임                                    | while                                       |
+| 273 | [3차] 방금그곡                                | StringBuilder, for                                       |
+| 274 | 기지국 설치                                   | for                                       |
