@@ -281,3 +281,4 @@
 | 274 | 기지국 설치                                   | for                                         |
 | 275 | 무지의 먹방 라이브                               | List, while, for                            |
 | 276 | 코딩 테스트 공부                                | for                                         |
+| 277 | 서버 증설 횟수                                | PriorityQueue, for, while                   |
