@@ -284,3 +284,4 @@
 | 277 | 서버 증설 횟수                                 | PriorityQueue, for, while                   |
 | 278 | 광고 삽입                                    | for                                         |
 | 279 | [PCCP 기출문제] 3번 / 충돌위험 찾기                 | Map, List, for, while                       |
+| 280 | 단체사진 찍기                                  | dfs, switch, for                            |
