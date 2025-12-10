@@ -285,3 +285,4 @@
 | 278 | 광고 삽입                                    | for                                         |
 | 279 | [PCCP 기출문제] 3번 / 충돌위험 찾기                 | Map, List, for, while                       |
 | 280 | 단체사진 찍기                                  | dfs, switch, for                            |
+| 281 | 기둥과 보 설치                                 | List, for                                   |
