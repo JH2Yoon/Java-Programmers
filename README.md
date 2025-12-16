@@ -287,3 +287,4 @@
 | 280 | 단체사진 찍기                                  | dfs, switch, for                            |
 | 281 | 기둥과 보 설치                                 | List, for                                   |
 | 282 | 도넛과 막대 그래프                               | Map, Set, Queue, for, while                 |
+| 283 | 완전범죄                                     | for                                         |
