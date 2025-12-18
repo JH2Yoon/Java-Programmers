@@ -288,3 +288,4 @@
 | 281 | 기둥과 보 설치                                 | List, for                                   |
 | 282 | 도넛과 막대 그래프                               | Map, Set, Queue, for, while                 |
 | 283 | 완전범죄                                     | for                                         |
+| 284 | 표현 가능한 이진트리                                     | for, while                                  |
