@@ -290,4 +290,5 @@
 | 283 | 완전범죄                                     | for                                         |
 | 284 | 표현 가능한 이진트리                              | for, while                                  |
 | 285 | 외벽 점검                                    | for                                         |
-| 286 | 등산코스 정하기                                    | List, for, Set, while                       |
+| 286 | 등산코스 정하기                                 | List, for, Set, while                       |
+| 287 | 보행자 천국                                   | for                                         |
