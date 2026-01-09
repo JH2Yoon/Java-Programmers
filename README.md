@@ -294,3 +294,4 @@
 | 287 | 보행자 천국                                   | for                                         |
 | 288 | [1차] 추석 트래픽                              | List, for                                   |
 | 289 | 상담원 인원                                   | List, PriorityQueue, for                    |
+| 290 | 에어컨                                      | for                                         |
