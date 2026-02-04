@@ -299,3 +299,4 @@
 | 292 | [PCCP 기출문제] 4번 / 수식 복원하기                 | StringBuilder, List, HashSet, for,          |
 | 293 | 호텔방 배정                                   | Map, for                                    |
 | 294 | 가사 검색                                    | Map, while                                  |
+| 295 | 블록 이동하기                                  | Queue, for, while                           |
