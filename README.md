@@ -301,3 +301,4 @@
 | 294 | 가사 검색                                    | Map, while                                  |
 | 295 | 블록 이동하기                                  | Queue, for, while                           |
 | 296 | 스티커 모으기(2)                               | for                                         |
+| 297 | 쿠키 구입                                    | for, while                                  |
