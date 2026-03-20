@@ -306,3 +306,4 @@
 | 299 | [3차] 자동완성                                | for                                         |
 | 300 | 비밀 코드 해독                                 | for, dfs                                    |
 | 301 | n + 1 카드게임                               | Set, for, while                             |
+| 302 | 매칭 점수                                    | List, Map, Pattern, for, while              |
