@@ -308,3 +308,4 @@
 | 301 | n + 1 카드게임                               | Set, for, while                             |
 | 302 | 매칭 점수                                    | List, Map, Pattern, for, while              |
 | 303 | 바이러스 파이프                                 | List, Queue, dfs, for, while                |
+| 304 | 캠핑                                       | Map, for                                    |
